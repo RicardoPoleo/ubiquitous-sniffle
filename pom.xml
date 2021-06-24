@@ -5,7 +5,7 @@
   <groupId>io.github.ricardopoleo</groupId>
   <artifactId>ubiquious-sniffle</artifactId>
   <packaging>jar</packaging>
-  <version>0.0.3</version>
+  <version>1.0.2</version>
   <name>Ubiquious Sniffle</name>
 
   <properties>
